@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53521900-58ef-4359-8bda-20cb17638273" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>CryptBlocks</find>
+    </findStrings>
+  </component>
+  <component name="GOROOT" path="E:\Go" />
+  <component name="ProjectId" id="1kAcoT16U0sKy3jzrpBEv08ODwI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="ToolWindowStructure.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../qqluck" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go">
+    <configuration name="go build CryptCode" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="CryptCode" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main1.go" />
+      <package value="CryptCode" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="CryptCode" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="DesCode" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build CryptCode" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="673" y="48" key="#Inspections" timestamp="1605248383988">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="673" y="48" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1605248383988" />
+    <state x="292" y="47" key="#go_build_CryptCode" timestamp="1605249236108">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="292" y="47" key="#go_build_CryptCode/0.0.1536.824@0.0.1536.824" timestamp="1605249236108" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1605166973233">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605166973233" />
+    <state width="1493" height="159" key="GridCell.Tab.0.bottom" timestamp="1605751171404">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="159" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605751171404" />
+    <state width="914" height="202" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1605689426765" />
+    <state width="1493" height="159" key="GridCell.Tab.0.center" timestamp="1605751171404">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="159" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605751171404" />
+    <state width="914" height="202" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1605689426764" />
+    <state width="1493" height="159" key="GridCell.Tab.0.left" timestamp="1605751171404">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="159" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605751171404" />
+    <state width="914" height="202" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1605689426764" />
+    <state width="1493" height="159" key="GridCell.Tab.0.right" timestamp="1605751171404">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="159" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605751171404" />
+    <state width="914" height="202" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1605689426764" />
+    <state x="554" y="19" width="759" height="680" maximized="true" key="dock-window-1" timestamp="1605249959574">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="554" y="19" width="759" height="680" maximized="true" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1605249959574" />
+    <state x="817" y="145" key="search.everywhere.popup" timestamp="1605235958255">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="817" y="145" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1605235958255" />
+    <state x="803" y="301" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1605247615242">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="803" y="301" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1536.824@0.0.1536.824" timestamp="1605247615242" />
+  </component>
+</project>
